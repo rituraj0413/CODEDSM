@@ -1,0 +1,10 @@
+INFO:root:this is my line of execution 
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:this is my line of execution 
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+ERROR:root:this is my error
+INFO:root:this is my line of execution 
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
